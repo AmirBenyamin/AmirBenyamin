@@ -36,10 +36,9 @@ Custom Python scripts to:
 
 ## 🌐 Portfolio Website
 
-Visit my personal portfolio here:  
+You can view my live portfolio here:  
 👉 [https://amirbenyamin.github.io](https://amirbenyamin.github.io)
 
----
 
 ## 📫 Contact Me
 
